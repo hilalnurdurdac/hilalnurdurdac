@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @hilalnurdurdac
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-hilalnurdurdac/hilalnurdurdac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋🏻 Merhaba ben @hilalnurdurdac!
+- 👀 Veri Bilimi üzerine ilgim var.
+- 🌱 üniversite eğitimimde Java dili üzerinden ilerliyoruz, içeriklerimde bunlar var şimdilik :)
+- 📫 Benimle https://www.linkedin.com/in/hilalnur-durdac/ buradan iletişime geçebilirsiniz..
